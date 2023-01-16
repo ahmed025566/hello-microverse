@@ -113,7 +113,7 @@ You can deploy this project using:
 
 ## 👤Author <a name="author"></a>
 
-> Mention all of the collaborators of this project.
+> This is a solo project and you can find my contact details below in case you want to reach out:
 
 👤 **Ahmed Salah**
 
