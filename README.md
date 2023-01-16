@@ -111,7 +111,7 @@ You can deploy this project using:
 
 <!-- AUTHORS -->
 
-## 👤singular <a name="authors"></a>
+## 👤Author <a name="author"></a>
 
 > Mention all of the collaborators of this project.
 
