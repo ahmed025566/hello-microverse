@@ -111,11 +111,11 @@ You can deploy this project using:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👤singular <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Ahmed Salah**
 
 - GitHub: [@ahmed](https://github.com/ahmed025566)
 - Twitter: [@AhmedEl18692792](https://twitter.com/AhmedEl18692792)
